@@ -230,9 +230,6 @@ function App() {
               <a href="#solutions" className="text-white/80 hover:text-white transition-colors text-sm font-medium">Solutions</a>
               <a href="#projects" className="text-white/80 hover:text-white transition-colors text-sm font-medium">Projects</a>
               <a href="#vision" className="text-white/80 hover:text-white transition-colors text-sm font-medium">Vision</a>
-              <button className="bg-gradient-to-r from-blue-500 to-purple-600 px-6 py-2 rounded-full hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 text-sm font-medium">
-                Join the Waitlist
-              </button>
               <a
                 className="bg-gradient-to-r from-blue-500 to-purple-600 px-6 py-2 rounded-full hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 text-sm font-medium"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSceyxm9FQtPvWI0V2SwoynCq4PBr4Z0ujhRHdUPr1xgYDkxsw/viewform?usp=header"
