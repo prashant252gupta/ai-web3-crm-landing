@@ -1,4 +1,16 @@
 @tailwind base;
+
+@layer base {
+  html {
+    /* 
+      • Min font-size: 14px 
+      • Scales with viewport: 1.2vw 
+      • Max font-size: 18px 
+    */
+    font-size: clamp(14px, 1.2vw, 18px);
+  }
+}
+
 @tailwind components;
 @tailwind utilities;
 
