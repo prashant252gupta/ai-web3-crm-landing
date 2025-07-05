@@ -233,6 +233,14 @@ function App() {
               <button className="bg-gradient-to-r from-blue-500 to-purple-600 px-6 py-2 rounded-full hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 text-sm font-medium">
                 Join the Waitlist
               </button>
+              <a
+                className="bg-gradient-to-r from-blue-500 to-purple-600 px-6 py-2 rounded-full hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 text-sm font-medium"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSceyxm9FQtPvWI0V2SwoynCq4PBr4Z0ujhRHdUPr1xgYDkxsw/viewform?usp=header"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Join the Waitlist
+              </a>
             </div>
           </div>
         </div>
@@ -272,6 +280,15 @@ function App() {
                   Join the Waitlist
                   <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
                 </button>
+                <a
+                className="group bg-gradient-to-r from-blue-500 to-purple-600 px-8 py-4 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 flex items-center justify-center"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSceyxm9FQtPvWI0V2SwoynCq4PBr4Z0ujhRHdUPr1xgYDkxsw/viewform?usp=header"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Join the Waitlist
+                <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </a>
               </div>
             </div>
 
@@ -607,6 +624,15 @@ function App() {
               Join the Waitlist
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>
+            <a
+              className="group bg-gradient-to-r from-blue-500 to-purple-600 px-8 py-4 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 flex items-center justify-center"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSceyxm9FQtPvWI0V2SwoynCq4PBr4Z0ujhRHdUPr1xgYDkxsw/viewform?usp=header"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Join the Waitlist
+              <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </a>
           </div>
         </div>
       </section>
